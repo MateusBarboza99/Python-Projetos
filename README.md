@@ -1,2 +1,3 @@
 # Python-Projetos
- Aula Com Guanabara(CursomEmVidéo)
+(Colocando em Pratica)
+
