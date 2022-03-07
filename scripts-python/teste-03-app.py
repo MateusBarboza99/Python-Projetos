@@ -1,0 +1,5 @@
+km = float(input("Digite a distância em km:"))
+velocidade = float(input("Digite a velocidade média em km/h:"))
+horas = (km / velocidade)
+minutos = (km % 60)
+print('Uma Viagem de {}Km na Velocidade de {}Km/h vai ter em media de {:.0f}hora {:.0f}minutos'.format(km, velocidade, horas, minutos))
